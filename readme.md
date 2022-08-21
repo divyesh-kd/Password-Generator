@@ -15,3 +15,12 @@ Files:-
 3. passwords.txt
 --------------------------------------
 
+----------------------------------------------------------------
+Files Discription:
+1. main.py: 
+    Includes main code.
+2. Dictionary.txt:
+    This file is reffered for random word searching.
+3. password.txt:
+    This file is used for saving passwords with CLI inputs.
+----------------------------------------------------------------
