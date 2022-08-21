@@ -11,6 +11,7 @@ Steps:
 --------------------------------------
 Files:-
 1. main.py
-2. passwords.txt
+2. Dictionary.txt
+3. passwords.txt
 --------------------------------------
 
